@@ -2,6 +2,8 @@
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Notalifeform/gitpodnode)
 
+# dit is de website van Maayke, Sena en Valentijn
+
 # meer technische info 
 ## over de code
 * tutorial building a REST-api with postgressDB + jsnode + jsexpress\
