@@ -8,6 +8,5 @@ CREATE TABLE Games (
   uitgever TEXT,
   releasedatum TEXT,
   price NUMERIC(10, 2)
-  genre TEXT 
 );
 
