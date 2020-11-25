@@ -4,6 +4,9 @@ CREATE TABLE Games (
   code VARCHAR(15),
   name VARCHAR(255),
   description TEXT,
+  genre TEXT,
+  uitgever TEXT,
+  releasedatum TEXT,
   price NUMERIC(10, 2)
   genre TEXT 
 );
