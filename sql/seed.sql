@@ -4,13 +4,22 @@
 -- want different data? check: https://www.mockaroo.com/910b6c20
 --
 
-ID SERIAL PRIMARY KEY,
-  code VARCHAR(15),
-  name VARCHAR(255),
+ /*CREATE TABLE Games (
+  id INTEGER PRIMARY KEY,
+  code INTEGER,
+  name TEXT,
   description TEXT,
-  price NUMERIC(10, 2)
-  genre
+  genre TEXT,
+  uitgever TEXT,
+  releasedatum TEXT,
+  price INTEGER); */ 
   
-INSERT INTO Games VALUES (1,100012, "Grand Theft Auto V", "De veelgeprezen en records brekende open wereld van Grand Theft Auto V op de Playstation 4 (PS4) komt naar next-gen.
-
-Grand Theft Auto V maakt volledig gebruik van de kracht van next gen-spelcomputers door verbeteringen te leveren zoals verhoogde resolutie en grafische details, hogere verkeersdichtheid, weidsere uitzichten, verbeterde AI, de toevoeging van nieuwe wilde dieren en geavanceerde weer- en schade-effecten voor een ultieme open wereld-ervaring."15);
+INSERT INTO Games VALUES 
+(1, 1,
+"Grand Theft Auto V", 
+"BESCHRIJVING",
+"Action-adventure en sandbox", 
+"Rockstar North",
+"18 november 2014",
+"$17,99"
+ ); 

@@ -1,12 +1,11 @@
 DROP TABLE IF EXISTS products; 
 CREATE TABLE Games (
-  ID SERIAL PRIMARY KEY,
-  code VARCHAR(15),
-  name VARCHAR(255),
+  id INTEGER PRIMARY KEY,
+  code INTEGER,
+  name TEXT,
   description TEXT,
   genre TEXT,
   uitgever TEXT,
   releasedatum TEXT,
-  price NUMERIC(10, 2)
-);
+  price INTEGER); 
 
