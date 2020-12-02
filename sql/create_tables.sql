@@ -1,39 +1,39 @@
 DROP TABLE IF EXISTS products; 
 CREATE TABLE Games (
   ID INTEGER PRIMARY KEY,
-  code INTEGER(15),
-  name TEXT(255),
+  code INTEGER,
+  name TEXT,
   description TEXT,
   genre TEXT,
   uitgever TEXT,
   releasedatum TEXT,
   price INTEGER
-);
+  );
 
-CREATE TABLE horror Games (
+CREATE TABLE HorrorGames (
   ID INTEGER PRIMARY KEY,
   code INTEGER,
   name TEXT,
   description TEXT,
   era INTEGER,
-  intensity level TEXT,
+  intensitylevel TEXT,
   age INTEGER,
-  price INTEGER,
- );
+  price INTEGER
+  );
 
- CREATE TABLE action Games (
+ CREATE TABLE ActionGames (
    ID INTEGER PRIMARY KEY,
    code INTEGER,
    name TEXT,
    description TEXT,
    era INTEGER,
    circumstance TEXT,
-   intensity level TEXT,
+   intensityLevel TEXT,
    age INTEGER,
    price INTEGER
 );
 
-CREATE TABLE RPG Games (
+CREATE TABLE RpgGames (
   ID INTEGER PRIMARY KEY,
   code INTEGER,
   name TEXT,
