@@ -1,7 +1,6 @@
 DROP TABLE IF EXISTS products; 
 CREATE TABLE Games (
   ID INTEGER PRIMARY KEY,
-  code INTEGER,
   name TEXT,
   description TEXT,
   genre TEXT,
@@ -12,7 +11,6 @@ CREATE TABLE Games (
 
 CREATE TABLE HorrorGames (
   ID INTEGER PRIMARY KEY,
-  code INTEGER,
   name TEXT,
   description TEXT,
   intensitylevel TEXT,
@@ -22,7 +20,6 @@ CREATE TABLE HorrorGames (
 
  CREATE TABLE ActionGames (
    ID INTEGER PRIMARY KEY,
-   code INTEGER,
    name TEXT,
    description TEXT,
    era INTEGER,
@@ -34,7 +31,6 @@ CREATE TABLE HorrorGames (
 
 CREATE TABLE RpgGames (
   ID INTEGER PRIMARY KEY,
-  code INTEGER,
   name TEXT,
   description TEXT,
   circumstance TEXT,
