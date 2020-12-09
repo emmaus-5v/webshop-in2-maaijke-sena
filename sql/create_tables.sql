@@ -15,7 +15,6 @@ CREATE TABLE HorrorGames (
   code INTEGER,
   name TEXT,
   description TEXT,
-  era INTEGER,
   intensitylevel TEXT,
   age INTEGER,
   price INTEGER
@@ -38,7 +37,6 @@ CREATE TABLE RpgGames (
   code INTEGER,
   name TEXT,
   description TEXT,
-  era INTEGER,
   circumstance TEXT,
   character TEXT,
   age INTEGER,
