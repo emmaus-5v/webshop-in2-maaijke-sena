@@ -26,5 +26,16 @@ INSERT INTO Games VALUES
 INSERT INTO Games VALUES 
 (2,
 "Assassin's Creed: Odyssey"
-""
+"Schrijf je eigen epische heldenverhaal en word een legendarische Griekse held in Assassins Creed Odyssey, een inspirerend avontuur waar jij het lot afdwingt en je je eigen pad bepaalt. Beinvloed de loop van de geschiedenis terwijl een rijke en continu veranderende wereld wordt gevormd aan de hand van jouw beslissingen."
+"Actie, Avontuur, Role Playing Game (RPG)"
+" Ubisoft"
+"2018-10-05"
+"$18,99"
+)
+
+INSERT INTO Games VALUES 
+(3,
+"Call of Duty: Black Ops Cold War",
+"Black Ops Cold War gooit fans in het heetst van de strijd van het geopolitieke conflict tijdens de Koude Oorlog in het begin van de jaren tachtig. Niets is wat het lijkt in de aangrijpende singleplayer Campaign, waarin spelers tegenover historische figuren en de harde werkelijkheid komen te staan tijdens een gevecht dat zich uitstrekt over de hele wereld op iconische locaties zoals Oost-Berlijn, Vietnam, Turkije, het KGB-kwartier van de Sovjets en meer."
+
 )
