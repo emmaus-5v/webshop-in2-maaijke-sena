@@ -27,4 +27,23 @@ INSERT INTO Games VALUES
 (2,
 "Assassin's Creed: Odyssey"
 ""
+);
+
+ /*CREATE TABLE Games (
+  id INTEGER PRIMARY KEY,
+  name TEXT,
+  description TEXT,
+  genre TEXT,
+  uitgever TEXT,
+  releasedatum TEXT,
+  price INTEGER); */ 
+
+INSERT INTO Games VALUES
+(4, 
+"The Last Of Us Part II"
+"The Last of Us Part II - Playstation 4 (PS4): Vijf jaar na een gevaarlijke reis door de post-pandemische Verenigde Staten wonen Ellie en Joel in Jackson, Wyoming. In een bloeiende gemeenschap van overlevenden leiden ze een leven vol vrede en stabiliteit, ondanks de constante bedreiging van geïnfecteerde mensen en andere, meer wanhopige overlevenden."
+"horror"
+"Naughty Dog"
+"21 februari 2020"
+"$69,99"
 )
