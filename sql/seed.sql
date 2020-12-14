@@ -3,6 +3,7 @@
 --
 -- want different data? check: https://www.mockaroo.com/910b6c20
 --
+/*test van GEE*/
 
  /*CREATE TABLE Games (
   id INTEGER PRIMARY KEY,
@@ -12,6 +13,7 @@
   uitgever TEXT,
   releasedatum TEXT,
   price INTEGER); */ 
+  
   
 INSERT INTO Games VALUES 
 (1, 
@@ -136,6 +138,7 @@ INSERT INTO Horrorgames VALUES
  "ManEater",
  "Ervaar de ultieme krachtfantasie als het toproofdier van de zeeën - een gigantische haai! Scheur zwemmers en duikers uit elkaar, geef de mensen een reden om bang voor je te zijn. Pas je haai aan met een verscheidenheid aan statistisch-aangedreven systemen. Evolueer verschillende delen van je lichaam om hun werking te verbeteren, of pomp je wreedheid op om korte feeding-frenzies aan te gaan", 
  "5/10"
- "18+" 
+ "Deep Silver"
+ "22 mei 2020" 
  "$32,99"
 )
