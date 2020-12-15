@@ -22,19 +22,8 @@ CREATE TABLE HorrorGames (
    ID INTEGER PRIMARY KEY,
    name TEXT,
    description TEXT,
-   era INTEGER,
    circumstance TEXT,
    intensityLevel TEXT,
    age INTEGER,
    price INTEGER
-);
-
-CREATE TABLE RpgGames (
-  ID INTEGER PRIMARY KEY,
-  name TEXT,
-  description TEXT,
-  circumstance TEXT,
-  character TEXT,
-  age INTEGER,
-  price INTEGER
 );
