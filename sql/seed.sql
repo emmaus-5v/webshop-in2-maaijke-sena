@@ -27,7 +27,7 @@ INSERT INTO products VALUES
 
 INSERT INTO products VALUES 
 (2,
-"Assassin's Creed: Odyssey",
+"Assassins Creed: Odyssey",
 "Schrijf je eigen epische heldenverhaal en word een legendarische Griekse held in Assassins Creed Odyssey, een inspirerend avontuur waar jij het lot afdwingt en je je eigen pad bepaalt. Beinvloed de loop van de geschiedenis terwijl een rijke en continu veranderende wereld wordt gevormd aan de hand van jouw beslissingen.",
 "Actie, Avontuur, Role Playing Game (RPG)",
 "Ubisoft",
@@ -87,7 +87,7 @@ INSERT INTO ActionGames VALUES
 
 INSERT INTO ActionGames VALUES 
 (2,
-"Assassin's Creed: Odyssey",
+"Assassins Creed: Odyssey",
 "Schrijf je eigen epische heldenverhaal en word een legendarische Griekse held in Assassins Creed Odyssey, een inspirerend avontuur waar jij het lot afdwingt en je je eigen pad bepaalt. Beinvloed de loop van de geschiedenis terwijl een rijke en continu veranderende wereld wordt gevormd aan de hand van jouw beslissingen.",
 "Het Ouden Grieken",
 "7/10",
